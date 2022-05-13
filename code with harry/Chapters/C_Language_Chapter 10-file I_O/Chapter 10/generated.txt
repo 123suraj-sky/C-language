@@ -1,0 +1,2 @@
+The number is 556
+Thanks for using fprinf

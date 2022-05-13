@@ -1,0 +1,25 @@
+(1) shape
+(2) variables
+(3) data types
+(4) printf
+(5) working with numbers
+(6) comments
+(7) constants
+(8) getting user input
+(9) mad libs game
+(10) arrays
+(11) functions
+(12) return statement
+(13) if statement
+(14) switch
+(15) structs
+(16) while
+(17) do while
+(18) guesssing game
+(19) for
+(20) 2d arrays and nested loops
+(21) memory address
+(22) pointers
+(23) derefrencing pointers
+(24) writing files
+(25) reading a file
